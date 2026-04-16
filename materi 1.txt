@@ -1,6 +1,11 @@
 jadwal:
+materi 1
 - kontrak
 - pendahuluan
 - review basis data
 - koneksi data dari txt
 - eya
+
+materi 2
+-review analisis data
+-pengenalan markdown
