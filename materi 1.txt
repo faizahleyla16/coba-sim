@@ -1,0 +1,6 @@
+jadwal:
+- kontrak
+- pendahuluan
+- review basis data
+- koneksi data dari txt
+- eya
